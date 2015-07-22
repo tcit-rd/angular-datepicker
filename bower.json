@@ -21,7 +21,6 @@
     "package.json"
   ],
   "dependencies": {
-    "angular": "1.2.14"
   },
   "devDependencies": {
     "angular": "1.2.14",
